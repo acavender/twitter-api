@@ -4,7 +4,7 @@
 
 1. Clone (or [download](https://github.com/smythp/twitter-workshop/archive/master.zip)) this repository to your computer and navigate to the folder once it's downloaded. You can clone the repository with this command in your terminal:
 
-    ```bash
+    ```
     git clone https://github.com/DHRI-Curriculum/twitter-api.git
     ```
 
@@ -12,13 +12,13 @@
 
 2. Open the my_keys.py file in your text editor, VS Code.
 
-3. Copy your four numbers (Consumer Key, Consumer Secret, Access Token Key, and Access Token Secret), replacing the `xxx` on each relevant line. Make sure to keep the single quotes around the numbers.
+3. Copy your four numbers (Consumer API key, Consumer API secret key, Access Token, and Access Token Secret), replacing the `xxx` on each relevant line. Make sure to keep the single quotes around the numbers.
 
 4. Save the `my_keys.py` file.
 
 5. Make sure you have the Tweepy library for Python installed. To check, type
 
-    ```bash
+    ```
     python
     ```
 
